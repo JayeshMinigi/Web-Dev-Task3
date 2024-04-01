@@ -2,7 +2,7 @@
 
 ![](/preview.png)
 
-This is a responsive and feature-rich React-based web application that allows you to create and manage your to-do lists effortlessly. It includes CRUD (Create, Read, Update, Delete) operations for seamless task management and utilizes local storage for persistent data storage.
+This is a responsive and feature-rich web application that allows you to create and manage your to-do lists effortlessly. It includes CRUD (Create, Read, Update, Delete) operations for seamless task management and utilizes local storage for persistent data storage.
 
 ## Table of Contents 📚
 
