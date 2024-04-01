@@ -121,6 +121,20 @@ textarea:focus {
   display: none;
 }
 
+footer {
+  background-color: rgba(0, 0, 0, 0.7); /* Adjust the opacity as needed */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.footer-link {
+  color: white; /* Set the text color to white */
+}
+
 @media(max-width: 768px) {
   .app {
     width: 95%;
