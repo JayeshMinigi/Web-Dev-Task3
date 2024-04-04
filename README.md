@@ -1,4 +1,4 @@
-# React Todo App with Local Storage 📝
+# Todo App with Local Storage 📝
 
 ![](/preview.png)
 
