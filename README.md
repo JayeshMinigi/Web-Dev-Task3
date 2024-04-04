@@ -1,4 +1,4 @@
-# Todo App with Local Storage 📝
+# To-do App with Local Storage 📝
 
 ![](/preview.png)
 
